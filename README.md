@@ -1,4 +1,5 @@
-# Website for Early Detection of Menopause using IoT and DL
+# MenoSense
+Website for Early Detection of Menopause using IoT and DL
 
 ## Steps to run:
 1. Download the ZIP file from GitHub or clone the repo
