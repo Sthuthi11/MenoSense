@@ -1,7 +1,6 @@
-# MenoSense - Website 
-## Early Detection of Menopause using IoT and DL
+# Website for Early Detection of Menopause using IoT and DL
 
-## Steps to run the MenoSense frontend on your system:
+## Steps to run:
 1. Download the ZIP file from GitHub or clone the repo
 2. cd MenoSense
 3. npm install
